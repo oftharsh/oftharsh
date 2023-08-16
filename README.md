@@ -1,6 +1,6 @@
 ## 👋 Hey everyone, I'm Harsh Singh<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" />
 
-![Alt text](gif.webp)
+![Alt text](.gif/gif.webp)
 
 I wish I could have five different lives!
 
