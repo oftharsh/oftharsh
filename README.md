@@ -10,12 +10,12 @@ I wish I could have five different lives!
 
 <p align="left">
 <a href="https://twitter.com/HarshSi62750550" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
-<a href="www.linkedin.com/in/harsh595" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/harsh595/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="https://www.instagram.com/oftharsh/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 
 </p>
 
-<img align="right" width="150" height="105" SRC=".gif/gif1.gif"></a>
+<img align="right" width="150" height="105" SRC=".gif/raining-alone.gif"></a>
 ### Some Fun Facts about me:
 I love researching. I work as a researcher at Neapolis University and Jacobs University on Robotics. I'm super into anime, movies, paintings, philosophy. If I truly could have had five different lives, I would have fallen in love with five different professions!
 
