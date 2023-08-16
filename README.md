@@ -16,5 +16,6 @@ I wish I could have five different lives!
 </p>
 
 <img align="right" width="150" height="105" SRC="gif/octocat-1692211280501.png></a>
+
 I love researching. I work as a researcher at Neapolis University and Jacobs University on Robotics. I'm super into anime, movies, paintings, philosophy. If I truly could have had five different lives, I would have fallen in love with five different professions!
 
