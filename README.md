@@ -5,7 +5,7 @@
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 
 ![mishmannersgamingroomgif](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
-
+![Alt text](gif.webp)
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event, speaking on stage, or on a live stream!
 
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
